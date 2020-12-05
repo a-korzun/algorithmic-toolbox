@@ -7,7 +7,7 @@ console.log(
   e = 2,
   'got:',
   g = min(950, 400, 4, [200, 375, 550, 750]),
-  'corect:',
+  'correct:',
   e === g
 );
 
@@ -16,7 +16,7 @@ console.log(
   e = -1,
   'got:',
   g = min(10, 3, 4, [1, 2, 5, 9]),
-  'corect:',
+  'correct:',
   e === g
 );
 

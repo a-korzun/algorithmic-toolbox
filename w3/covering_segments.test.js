@@ -7,7 +7,7 @@ console.log(
   e = [3],
   'got:',
   g = optimal_points([[1, 3], [2, 5], [3, 6]]),
-  'corect:',
+  'correct:',
   JSON.stringify(e) === JSON.stringify(g)
 );
 
@@ -16,7 +16,7 @@ console.log(
   e = [3, 6],
   'got:',
   g = optimal_points([[4, 7], [1, 3], [2, 5], [5, 6]]),
-  'corect:',
+  'correct:',
   JSON.stringify(e) === JSON.stringify(g)
 );
 

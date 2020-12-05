@@ -7,7 +7,7 @@ console.log(
   e = 897,
   'got:',
   g = max_dot_product(1, [23], [39]),
-  'corect:',
+  'correct:',
   e === g
 );
 
@@ -16,7 +16,7 @@ console.log(
   e = 23,
   'got:',
   g = max_dot_product(3, [1, 3, -5], [-2, 4, 1]),
-  'corect:',
+  'correct:',
   e === g
 );
 
@@ -26,7 +26,7 @@ console.log(
   e = 27,
   'got:',
   g = max_dot_product(3, [1, 3, 5], [2, 4, 1]),
-  'corect:',
+  'correct:',
   e === g
 );
 
